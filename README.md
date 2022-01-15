@@ -1,7 +1,7 @@
 # Streaming-Data-Present
 Streaming Data Present Files
 
-Here is Some info about Code & DataSet & Requirements
+    Here is Some info about Code & DataSet & Requirements
 
 
 ## About DataSet "Synthetic Financial Datasets For Fraud Detection"
@@ -12,3 +12,9 @@ This synthetic dataset is scaled down 1/4 of the original dataset and it is crea
 We present a synthetic dataset generated using the simulator called PaySim as an approach to such a problem. PaySim uses aggregated data from the private dataset to generate a synthetic dataset that resembles the normal operation of transactions and injects malicious behaviour to later evaluate the performance of fraud detection methods.
 
 DataSet Download Link : https://www.kaggle.com/ealaxi/paysim1
+
+## Requirements
+
+>- python 3.x.x
+Hadoop
+Spark
