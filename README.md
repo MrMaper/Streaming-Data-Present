@@ -16,5 +16,5 @@ DataSet Download Link : https://www.kaggle.com/ealaxi/paysim1
 ## Requirements
 
 - python 3.x.x
-Hadoop
-Spark
+- Hadoop 3.3.1
+- Spark 3.0.3
